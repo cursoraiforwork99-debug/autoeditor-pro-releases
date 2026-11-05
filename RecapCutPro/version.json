@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "notes": "Auto-update live. Jab naya zip/patch Drive pe public hoga, zip_url yahan fill hoga — app khulte hi update popup aayega.\n\nAuto-update is live. Fill zip_url when the public Drive zip is ready.",
+  "patch_url": "",
+  "zip_url": ""
+}
